@@ -38,6 +38,4 @@ Leadership (Greensboro, NC) and NOVA School of Business and Economics
 
 Her work has appeared in <i>The Leadership Quarterly</i> and 
 <i>Frontiers in Psychology</i>, and she has presented at the Academy of 
-Management, SIOP, and the European Academy of Management. She has a paper 
-under review at the <i>Journal of Management</i> examining how team cultures 
-of belonging generate members' intrinsic prosocial motivation for collaboration.
+Management, SIOP, and the European Academy of Management.
