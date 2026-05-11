@@ -24,21 +24,21 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div style="font-family: 'Playfair Display', serif; font-weight: 300;">
-Margarida Truninger is an organizational behavior scientist whose work 
+<div style="font-family: 'Playfair Display', serif; font-weight: 400;">
+<p>Margarida Truninger is an organizational behavior scientist whose work 
 examines the psychological and social dynamics that shape how individuals 
-and teams work, lead, learn, and belong.
+and teams work, lead, learn, and belong.</p>
 
-She holds a PhD in Management Sciences/Organizational Behavior from ESADE 
+<p>She holds a PhD in Management Sciences/Organizational Behavior from ESADE 
 Business School, where she also completed her Master of Research. Her 
 doctoral work examined emotional intelligence competencies and learning 
 performance. She has held postdoctoral positions at the Center for Creative 
 Leadership (Greensboro, NC) and NOVA School of Business and Economics 
-(Lisbon, PT).
+(Lisbon, PT).</p>
 
-She has published in <i>The Leadership Quarterly</i> and 
+<p>She has published in <i>The Leadership Quarterly</i> and 
 <i>Frontiers in Psychology</i>, and presented at the Academy of 
 Management, SIOP, and the European Academy of Management. Her current research develops a theoretical model of team cultures 
 of belonging and their role in generating intrinsic prosocial motivation for 
-collaboration.
+collaboration.</p>
 </div>
