@@ -24,7 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
+<div style="font-family: 'Playfair Display', serif; font-weight: 300;">
 Margarida Truninger is an organizational behavior scientist whose work 
 examines the psychological and social dynamics that shape how individuals 
 and teams work, lead, learn, and belong.
@@ -41,3 +41,4 @@ She has published in <i>The Leadership Quarterly</i> and
 Management, SIOP, and the European Academy of Management. Her current research develops a theoretical model of team cultures 
 of belonging and their role in generating intrinsic prosocial motivation for 
 collaboration.
+</div>
