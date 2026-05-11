@@ -37,10 +37,3 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
-// Profile picture size override
-.profile {
-  img {
-    max-width: 200px !important;
-    width: 200px !important;
-  }
-}
