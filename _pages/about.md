@@ -24,7 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div style="font-family: 'Playfair Display', serif; font-weight: 400;">
+<div style="font-family: 'Playfair Display', serif; font-weight: 300;font-size: 17px; line-height: 1.8;">
 <p>Margarida Truninger is an organizational behavior scientist whose work 
 examines the psychological and social dynamics that shape how individuals 
 and teams work, lead, learn, and belong.</p>
