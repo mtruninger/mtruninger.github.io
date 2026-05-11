@@ -29,12 +29,8 @@ latest_posts:
 examines the psychological and social dynamics that shape how individuals 
 and teams work, lead, learn, and belong.</p>
 
-<p>She holds a PhD in Management Sciences/Organizational Behavior from ESADE 
-Business School, where she also completed her Master of Research. Her 
-doctoral work examined emotional intelligence competencies and learning 
-performance. She has held postdoctoral positions at the Center for Creative 
-Leadership (Greensboro, NC) and NOVA School of Business and Economics 
-(Lisbon, PT).</p>
+<p>She holds a PhD in Management Sciences from ESADE Business School, where she also completed her Master of Research. Her 
+doctoral work examined emotional intelligence competencies and learning performance. She has held postdoctoral positions at the Center for Creative Leadership (Greensboro, NC) and NOVA School of Business and Economics (Lisbon, PT).</p>
 
 <p>She has published in <i>The Leadership Quarterly</i> and 
 <i>Frontiers in Psychology</i>, and presented at the Academy of 
