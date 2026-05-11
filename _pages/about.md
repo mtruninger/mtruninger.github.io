@@ -34,7 +34,7 @@ Business School, where she also completed her Master of Research. Her
 doctoral work examined emotional intelligence competencies and learning 
 performance. She has held postdoctoral positions at the Center for Creative 
 Leadership (Greensboro, NC) and NOVA School of Business and Economics 
-(Lisbon, PT) and is affiliated as a Research Associate at ESADE Business School.
+(Lisbon, PT).
 
 Her work has appeared in <i>The Leadership Quarterly</i> and 
 <i>Frontiers in Psychology</i>, and she has presented at the Academy of 
