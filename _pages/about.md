@@ -36,6 +36,6 @@ performance. She has held postdoctoral positions at the Center for Creative
 Leadership (Greensboro, NC) and NOVA School of Business and Economics 
 (Lisbon, PT).
 
-Her work has appeared in <i>The Leadership Quarterly</i> and 
-<i>Frontiers in Psychology</i>, and she has presented at the Academy of 
+She has published in <i>The Leadership Quarterly</i> and 
+<i>Frontiers in Psychology</i>, and presented at the Academy of 
 Management, SIOP, and the European Academy of Management.
