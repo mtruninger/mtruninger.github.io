@@ -34,6 +34,6 @@ doctoral work examined emotional intelligence competencies and learning performa
 
 <p>She has published in <i>The Leadership Quarterly</i> and 
 <i>Frontiers in Psychology</i>, and presented at the Academy of 
-Management, SIOP, and the European Academy of Management. Her current research focuses on team cultures 
-of belonging and their role in generating intrinsic prosocial motivation for collaboration.</p>
+Management, SIOP, and the European Academy of Management. Her current research examines how team cultures 
+of belonging generate members' intrinsic prosocial motivation for collaboration.</p>
 </div>
