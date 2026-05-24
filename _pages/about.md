@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Research Associate, ESADE Business School
+# subtitle:  Research Associate, ESADE Business School
 
 profile:
   align: right
